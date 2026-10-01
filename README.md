@@ -14,8 +14,8 @@
 <a href="https://www.linkedin.com/in/haider-dawood">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://github.com/HaiderDawoodKhan">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<a href="https://haiderdawoodkhan.github.io">
+  <img src="https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website" />
 </a>
 
 </div>
