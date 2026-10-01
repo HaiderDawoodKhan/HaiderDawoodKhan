@@ -28,7 +28,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/HaiderDawoodKhan/lvar">LVAR: Controller-Guided Latent Reasoning</a></h3>
-      <p align="center">Multimodal latent-space reasoning for VLMs. A controller chooses when to retrieve visual evidence during recurrent reasoning; the work includes progressive distillation, search-built training data, controller supervision, and GRPO. Reported results: 66.27% M3CoT accuracy with roughly 5× shorter traces.</p>
+      <p align="center">Multimodal latent-space reasoning for VLMs through a controller, which chooses when to retrieve visual evidence during recurrent reasoning.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/HaiderDawoodKhan/vl_models">VLM Models</a></h3>
