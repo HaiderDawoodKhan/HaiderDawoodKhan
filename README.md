@@ -22,7 +22,9 @@
 
 ---
 
-<h2 align="center"><font color="#78BDE8">🧠 Language Models · VLMs · Reasoning · Post-Training</font></h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&amp;height=72&amp;section=header&amp;text=%F0%9F%A7%A0%20Language%20Models%20%C2%B7%20VLMs%20%C2%B7%20Reasoning%20%C2%B7%20Post-Training&amp;fontSize=30&amp;fontColor=78BDE8&amp;fontAlignY=60" alt="🧠 Language Models · VLMs · Reasoning · Post-Training" />
+</p>
 
 <table align="center" width="100%">
   <tr>
@@ -57,7 +59,9 @@
   </tr>
 </table>
 
-<h2 align="center"><font color="#82C9AE">📊 Machine Learning</font></h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&amp;height=72&amp;section=header&amp;text=%F0%9F%93%8A%20Machine%20Learning&amp;fontSize=30&amp;fontColor=82C9AE&amp;fontAlignY=60" alt="📊 Machine Learning" />
+</p>
 
 <table align="center" width="100%">
   <tr>
@@ -82,7 +86,9 @@
   </tr>
 </table>
 
-<h2 align="center"><font color="#B6A0E8">🎨 Computer Vision &amp; Generative Models</font></h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&amp;height=72&amp;section=header&amp;text=%F0%9F%8E%A8%20Computer%20Vision%20%26amp%3B%20Generative%20Models&amp;fontSize=30&amp;fontColor=8B70C8&amp;fontAlignY=60" alt="🎨 Computer Vision &amp; Generative Models" />
+</p>
 
 <table align="center" width="100%">
   <tr>
@@ -97,7 +103,9 @@
   </tr>
 </table>
 
-<h2 align="center"><font color="#E5AB83">🛠️ Applications &amp; Creative Projects</font></h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&amp;height=72&amp;section=header&amp;text=%F0%9F%9B%A0%EF%B8%8F%20Applications%20%26amp%3B%20Creative%20Projects&amp;fontSize=30&amp;fontColor=B96F43&amp;fontAlignY=60" alt="🛠️ Applications &amp; Creative Projects" />
+</p>
 
 <table align="center" width="100%">
   <tr>
@@ -124,7 +132,9 @@
 
 ---
 
-<h2 align="center"><font color="#AAB7C8">🧰 Technical Skills</font></h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&amp;height=72&amp;section=header&amp;text=%F0%9F%A7%B0%20Technical%20Skills&amp;fontSize=30&amp;fontColor=718096&amp;fontAlignY=60" alt="🧰 Technical Skills" />
+</p>
 
 <h3 align="center">Languages, frameworks &amp; tools</h3>
 
