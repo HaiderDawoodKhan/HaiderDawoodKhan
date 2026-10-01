@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,35:164e63,70:1d4ed8,100:6d28d9&height=190&section=header&text=Haider%20Dawood%20Khan&fontSize=48&fontColor=ffffff&fontAlignY=48" alt="Haider Dawood Khan" />
 
-<h3>M.S. Computer Science &amp; Engineering student at the University of Michigan</h3>
+<h3>M.S. Computer Science &amp; Engineering student @ University of Michigan</h3>
 
 <p>
   I’m interested in how language models reason and align, with a focus on multimodal learning,
@@ -22,117 +22,126 @@
 
 ---
 
-<h2 align="center">🧠 Language Models · VLMs · Reasoning · Post-Training</h2>
+<h2 align="center"><font color="#78BDE8">🧠 Language Models · VLMs · Reasoning · Post-Training</font></h2>
 
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/HaiderDawoodKhan/lvar">LVAR: Controller-Guided Latent Reasoning</a></h3>
-      <p >Multimodal latent-space reasoning for VLMs. A controller chooses when to retrieve visual evidence during recurrent reasoning; the work includes progressive distillation, search-built training data, controller supervision, and GRPO. Reported results: 66.27% M3CoT accuracy with roughly 5× shorter traces.</p>
+      <p align="center">Multimodal latent-space reasoning for VLMs. A controller chooses when to retrieve visual evidence during recurrent reasoning; the work includes progressive distillation, search-built training data, controller supervision, and GRPO. Reported results: 66.27% M3CoT accuracy with roughly 5× shorter traces.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/HaiderDawoodKhan/vl_models">VLM Models</a></h3>
-      <p>Vision-language model design using continuous connectors and VQ-VAE representations to bridge visual features and language models.</p>
+      <p align="center">Vision-language model design using continuous connectors and VQ-VAE representations to bridge visual features and language models.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/HaiderDawoodKhan/differential-diagnosis">Differential Diagnosis: Audio &amp; Clinical Scribes</a></h3>
-      <p >Audio pipeline for the AAAI 2027 work <em>Noise In, Harm Out</em>, studying how ASR errors carry through clinical scribe systems and evaluating errors by potential harm. The paper is under review.</p>
+      <p align="center">Audio pipeline for the AAAI 2027 work <em>Noise In, Harm Out</em>, studying how ASR errors carry through clinical scribe systems and evaluating errors by potential harm. The paper is under review.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/HaiderDawoodKhan/LLM-Alignment">LLM Alignment</a></h3>
-      <p>An inspectable post-training pipeline with reward modeling and implementations of PPO, DPO, GRPO, and RLVR, alongside supervised warm-up and evaluation.</p>
+      <p align="center">An inspectable post-training pipeline with reward modeling and implementations of PPO, DPO, GRPO, and RLVR, alongside supervised warm-up and evaluation.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/HaiderDawoodKhan/SmolLM-LoRA-DPO">SmolLM LoRA + DPO</a></h3>
-      <p>Preference alignment on Anthropic HH-RLHF using LoRA adapters on a compact decoder-only Transformer. The DPO run improved held-out preference accuracy by 16% while training a small fraction of the parameters.</p>
+      <p align="center">Preference alignment on Anthropic HH-RLHF using LoRA adapters on a compact decoder-only Transformer. The DPO run improved held-out preference accuracy by 16% while training a small fraction of the parameters.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/HaiderDawoodKhan?tab=repositories&amp;q=PA6">Alignment &amp; Grokking</a></h3>
-      <p>Studies DPO, PPO, and GRPO for preference alignment, including stability and reward-hacking risks; also investigates grokking on modular arithmetic and the emergence of compact Fourier-based mechanisms.</p>
+      <p align="center">Studies DPO, PPO, and GRPO for preference alignment, including stability and reward-hacking risks; also investigates grokking on modular arithmetic and the emergence of compact Fourier-based mechanisms.</p>
     </td>
   </tr>
 </table>
 
-<h2 align="center">📊 Machine Learning</h2>
+<h2 align="center"><font color="#82C9AE">📊 Machine Learning</font></h2>
 
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/HaiderDawoodKhan?tab=repositories&amp;q=PA1">Inductive Bias &amp; Generalization</a></h3>
-      <p>Compares CNNs and ViTs on shape, texture, and semantic cues; studies VAE/GAN diversity and fidelity; and tests how CLIP’s visual-language pretraining affects zero-shot and out-of-distribution generalization.</p>
+      <p align="center">Compares CNNs and ViTs on shape, texture, and semantic cues; studies VAE/GAN diversity and fidelity; and tests how CLIP’s visual-language pretraining affects zero-shot and out-of-distribution generalization.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/HaiderDawoodKhan?tab=repositories&amp;q=PA2">Domain Adaptation &amp; Generalization</a></h3>
-      <p>Evaluates domain adaptation methods (DAN, CDAN, DANN), domain generalization methods (IRM, GroupDRO, SAM), and CLIP prompt tuning across seen and unseen domains.</p>
+      <p align="center">Evaluates domain adaptation methods (DAN, CDAN, DANN), domain generalization methods (IRM, GroupDRO, SAM), and CLIP prompt tuning across seen and unseen domains.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/HaiderDawoodKhan?tab=repositories&amp;q=PA3">Model Compression</a></h3>
-      <p>Compares structured and unstructured pruning, PTQ/QAT quantization, and teacher-student distillation. Experiments measure accuracy alongside model size, MACs, and inference latency on VGG and ResNet models.</p>
+      <p align="center">Compares structured and unstructured pruning, PTQ/QAT quantization, and teacher-student distillation. Experiments measure accuracy alongside model size, MACs, and inference latency on VGG and ResNet models.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/HaiderDawoodKhan?tab=repositories&amp;q=PA4">Federated Learning</a></h3>
-      <p>Explores collaborative model training across clients that keep their data local, with model updates coordinated and aggregated to improve a shared global model.</p>
+      <p align="center">Explores collaborative model training across clients that keep their data local, with model updates coordinated and aggregated to improve a shared global model.</p>
     </td>
   </tr>
 </table>
 
-<h2 align="center">🎨 Computer Vision &amp; Generative Models</h2>
+<h2 align="center"><font color="#B6A0E8">🎨 Computer Vision &amp; Generative Models</font></h2>
 
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/HaiderDawoodKhan/DDPM-from-scratch">DDPM from Scratch</a></h3>
-      <p>Implements a denoising diffusion model on MNIST with a cosine noise schedule, a U-Net denoiser, sinusoidal time embeddings, and an MSE noise-prediction objective.</p>
+      <p align="center">Implements a denoising diffusion model on MNIST with a cosine noise schedule, a U-Net denoiser, sinusoidal time embeddings, and an MSE noise-prediction objective.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/HaiderDawoodKhan/Diffusion">Stable Diffusion</a></h3>
-      <p>Experiments with unconditional and class-conditional diffusion, including Stable Diffusion and CLIP-guided prompt-conditioned generation.</p>
+      <h3 align="center"><a href="https://github.com/HaiderDawoodKhan/Diffusion">Diffusion Models</a></h3>
+      <p align="center">Experiments with unconditional and class-conditional diffusion, including Stable Diffusion and CLIP-guided prompt-conditioned generation.</p>
     </td>
   </tr>
 </table>
 
-<h2 align="center">🛠️ Applications &amp; Creative Projects</h2>
+<h2 align="center"><font color="#E5AB83">🛠️ Applications &amp; Creative Projects</font></h2>
 
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/HaiderDawoodKhan/auction-app">Real-Time Auction App</a></h3>
-      <p>MERN and TypeScript auction platform with live Socket.IO bidding, auction management, authentication, and protected user flows.</p>
+      <p align="center">MERN and TypeScript auction platform with live Socket.IO bidding, auction management, authentication, and protected user flows.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/HaiderDawoodKhan/restaurant-app">Restaurant App</a></h3>
-      <p>Restaurant management application for customer ordering and staff order workflows.</p>
+      <p align="center">Restaurant management application for customer ordering and staff order workflows.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/HaiderDawoodKhan?tab=repositories&amp;q=chrono">ChronoSavior</a></h3>
-      <p>A 2D time-travel adventure game with action and shooter elements.</p>
+      <p align="center">A 2D time-travel adventure game with action and shooter elements.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/HaiderDawoodKhan?tab=repositories&amp;q=emotilog">EmotiLog</a></h3>
-      <p>An Android app for logging and tracking emotions.</p>
+      <p align="center">An Android app for logging and tracking emotions.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-<h2 align="center">🧰 Technical Skills</h2>
+<h2 align="center"><font color="#AAB7C8">🧰 Technical Skills</font></h2>
 
 <h3 align="center">Languages, frameworks &amp; tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,js,ts,bash,haskell,react,nodejs,express,pytorch,tensorflow,opencv,flask,fastapi,docker,aws,mongodb,linux,jupyter,git,github,vscode,postman&perline=8" alt="Python, C++, C#, JavaScript, TypeScript, Bash, Haskell, React, Node.js, Express, PyTorch, TensorFlow, OpenCV, Flask, FastAPI, Docker, AWS, MongoDB, Linux, Jupyter, Git, GitHub, VS Code, Postman" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,js,ts,bash,haskell,react&perline=8" alt="Python, C++, C#, JavaScript, TypeScript, Bash, Haskell, React" />
 </p>
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,pytorch,tensorflow,opencv,flask,fastapi,docker&perline=8" alt="Node.js, Express, PyTorch, TensorFlow, OpenCV, Flask, FastAPI, Docker" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,mongodb,linux,git,github,vscode,postman&perline=7" alt="AWS, MongoDB, Linux, Git, GitHub, VS Code, Postman" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL" />
   <img src="https://img.shields.io/badge/AWS_EC2%20%2F%20S3%20%2F%20Lambda-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS EC2, S3, and Lambda" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
