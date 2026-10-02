@@ -1,15 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,35:164e63,70:1d4ed8,100:6d28d9&height=190&section=header&text=Haider%20Dawood%20Khan&fontSize=48&fontColor=ffffff&fontAlignY=48" alt="Haider Dawood Khan" />
+<img width="100%" src="./assets/banner.svg" alt="Haider Dawood Khan" />
 
-<h3>M.S. Computer Science &amp; Engineering student @ University of Michigan</h3>
+<!-- <h3>M.S. Computer Science &amp; Engineering student @ University of Michigan</h3> -->
 
-<p>
+<!-- <p>
   I’m interested in how language models reason and align, with a focus on multimodal learning,
   post-training, and generative models. My experience spans ML research, computer vision,
   audio and clinical-language evaluation, and full-stack software. Previously, I was a research
   assistant at LUMS and an AI/ML Research &amp; Development intern at Motive.
-</p>
+</p> -->
 
 <a href="https://www.linkedin.com/in/haider-dawood">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
